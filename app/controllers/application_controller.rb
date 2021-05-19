@@ -1,4 +1,4 @@
-require 'rack/test'
+# require 'rack/test'
 require "sinatra/namespace"
 require 'json'
 
