@@ -13,6 +13,7 @@ gem 'shotgun'
 gem 'sinatra', require: 'sinatra/base'
 gem 'addressable'
 gem 'json'
+ruby '2.5.3'
 group :development, :test do
   gem 'pry'
 end
